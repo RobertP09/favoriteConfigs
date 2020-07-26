@@ -1,0 +1,24 @@
+{
+	"name": "favoriteconfigs",
+	"version": "1.0.0",
+	"description": "CLI to choose favorite configs for projects",
+	"main": "src/index.js",
+	"bin": "src/index.js",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/robert9111/favoriteConfigs.git"
+	},
+	"keywords": [
+		"Configs",
+		"NodeJS"
+	],
+	"author": "Robert Perez",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/robert9111/favoriteConfigs/issues"
+	},
+	"homepage": "https://github.com/robert9111/favoriteConfigs#readme"
+}
