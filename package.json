@@ -16,7 +16,7 @@
 		"NodeJS"
 	],
 	"author": "Robert Perez",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/robert9111/favoriteConfigs/issues"
 	},
